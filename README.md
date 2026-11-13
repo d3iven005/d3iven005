@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Yu Jiwen. 
-I completed my PhD in Computational Materials Science at Imperial College London, and am about to start my career at the School of Science, Shandong Jianzhu University. I am interested in electronic structure methods and machine learning.
+I completed my PhD in Computational Materials Science at **Imperial College London**, and am about to start my career at the **School of Science, Shandong Jianzhu University**. I am interested in electronic structure methods and machine learning.
 ## 🔬 Research interests
 Density Functional Theory (DFT); Density Functional Tight Binding (DFTB); Machine Learning Interatomic Potentials (MLIPs).
 ## 🛠 Software and Package
