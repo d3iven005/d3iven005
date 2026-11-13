@@ -3,11 +3,13 @@ I completed my PhD in Computational Materials Science at Imperial College London
 ## 🔬 Research interests
 Density Functional Theory (DFT); Density Functional Tight Binding (DFTB); Machine Learning Interatomic Potentials (MLIPs).
 ## 🛠 Software and Package
-PLATO (Package for Linear-combination of ATomic Orbitals); Quantum ESPRESSO; Python (scikit learn, pytorch...)
+PLATO (Package for Linear-combination of ATomic Orbitals); DFTB+; Quantum ESPRESSO; Python (Pytorch...)...
 ## 🌐 Language
 Mandarin; English; Japanese 
 ## 📫 Contact
 Email: jiwen.yu18@imperial.ac.uk
+
+ORCID: https://orcid.org/0009-0009-9946-5521
 
 Feel free to contact me! ;-)
 
